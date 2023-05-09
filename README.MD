@@ -17,7 +17,7 @@ Branches may be renamed.
 
 ## Class info
 
-I give lectures to new employees at my company. These are the contents decided by my company:
+The curriculum is decided by my company. I am responsible for these parts of the curriculum:
 
 - Introduction to software and OS
 - Introduction to Windows command prompt and Windows Powershell 5.0
