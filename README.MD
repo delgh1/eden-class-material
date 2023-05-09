@@ -12,7 +12,7 @@ The class material of the lectures I give at Eden Corp. Ltd. in Shinjuku, Tokyo
 
 For now, this repo will be read-only, and only pdf files will be pushed to GitHub. Class materials are originally written using Google Slides.
 
-Stale branches will be deleted after 6 months of inactivity, in principle.
+Branches may be renamed.
 
 ## Class info
 
