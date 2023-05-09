@@ -1,6 +1,6 @@
 ## Introduction of this repository
 
-The class material of the lectures I give at Eden Corp. Ltd. in Shinjuku, Tokyo
+The class material of the lectures I give to new employees for training at Eden Corp. Ltd. in Shinjuku, Tokyo
 
 ## How to use this repository
 
@@ -8,11 +8,12 @@ The class material of the lectures I give at Eden Corp. Ltd. in Shinjuku, Tokyo
 
 ### _Students must follow this instruction_
 
-**Checkout the branch(es) that fits your class schedule.**
+**Checkout the branch with the name that fits your class schedule.**
+For example, if you attend classes every Saturday morning in June, check out the branch `2023.6.am`.
 
 For now, this repo will be read-only, and only pdf files will be pushed to GitHub. Class materials are originally written using Google Slides.
 
-Stale branches will be deleted after 6 months of inactivity, in principle.
+Branches may be renamed.
 
 ## Class info
 
