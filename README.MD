@@ -1,6 +1,8 @@
 ## Introduction of this repository
 
-The class material of the lectures I give to new employees for training at Eden Corp. Ltd. in Shinjuku, Tokyo
+The class material of the lectures I give to new employees for training at Eden Corp. Ltd. in Shinjuku, Tokyo.
+
+Update: As of Aug 2023, my classes are cancelled.
 
 ## How to use this repository
 
